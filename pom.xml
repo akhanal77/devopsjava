@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.pragra.learning</groupId>
-    <artifactId>pragrapp</artifactId>
+    <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>pragrapp</name>
     <description>DemoProject For Devops</description>
